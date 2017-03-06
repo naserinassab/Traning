@@ -1,0 +1,6 @@
+c:\users\aryo\documents\visual studio 2013\Projects\test7\test7\bin\Debug\test7.exe.config
+C:\Users\Aryo\Documents\Visual Studio 2013\Projects\test7\test7\bin\Debug\test7.exe
+C:\Users\Aryo\Documents\Visual Studio 2013\Projects\test7\test7\bin\Debug\test7.pdb
+C:\Users\Aryo\Documents\Visual Studio 2013\Projects\test7\test7\obj\Debug\test7.csprojResolveAssemblyReference.cache
+C:\Users\Aryo\Documents\Visual Studio 2013\Projects\test7\test7\obj\Debug\test7.exe
+C:\Users\Aryo\Documents\Visual Studio 2013\Projects\test7\test7\obj\Debug\test7.pdb

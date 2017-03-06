@@ -1,0 +1,6 @@
+c:\users\aryo\documents\visual studio 2013\Projects\test8\test8\bin\Debug\test8.exe.config
+c:\users\aryo\documents\visual studio 2013\Projects\test8\test8\bin\Debug\test8.exe
+c:\users\aryo\documents\visual studio 2013\Projects\test8\test8\bin\Debug\test8.pdb
+c:\users\aryo\documents\visual studio 2013\Projects\test8\test8\obj\Debug\test8.csprojResolveAssemblyReference.cache
+c:\users\aryo\documents\visual studio 2013\Projects\test8\test8\obj\Debug\test8.exe
+c:\users\aryo\documents\visual studio 2013\Projects\test8\test8\obj\Debug\test8.pdb
